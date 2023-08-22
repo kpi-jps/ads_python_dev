@@ -1,0 +1,3 @@
+Fulano Silva|sc1111|1.0|2.0|0.5
+Ciclano Souza|sc2222|6.0|7.0|6.0
+Beltrano Cruz|sc3333|4.0|4.0|5.0

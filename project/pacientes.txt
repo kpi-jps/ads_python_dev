@@ -1,0 +1,3 @@
+11111;Fernanda Silva;03/05/2001;Feminino;SUS;fernanda@email.com;0169999999
+2222;José Lima;04/07/1998;Masculino;SUS;joselima@email.com;0169898989
+33333;Francisca Silva;07/12/2003;Feminino;SUS;xicasilva@email.com|francisca@email2.com;01698765432|01691234567

@@ -1,0 +1,4 @@
+11111;Flávio Souza;12/03/1976;Masculino;Cardiologista;USP;flaviomed@med.com|flaviocardiologista@med.com;01699999999
+22222;Raquel Reis;15/06/1982;Feminino;Oftalmologista;USP;raquel@med.com.br;0168888888
+33333;José Carlos Silva;10/08/1978;Masculino;Pediatra;Unifesp;josepediatra@email.com|josesilva@med.com.br;0188899090|01798675445
+44444;Maria Fernanda Flores;02/02/1999;Feminino;Cirurgia Geral;USP;mariamed@med.com.br;0168765465
